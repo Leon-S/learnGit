@@ -98,8 +98,7 @@ endif
 
 set number	"显示行序号"
 
-syntax on
-filetype plugin indent on
+syntax on   "开启语法高亮"
 
 setl expandtab=4
 setl tabstop=4
