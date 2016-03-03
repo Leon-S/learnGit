@@ -101,7 +101,7 @@ set number	"显示行序号"
 syntax on
 filetype plugin indent on
 
-setl expandtab
+setl expandtab=4
 setl tabstop=4
 setl shiftwidth=4
 setl softtabstop=4
